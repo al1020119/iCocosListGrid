@@ -2,37 +2,21 @@
 
 
 //============================================梦工厂============================================//
-//                                                                                                                                                                                                          //
-//                                                       微信：clpaial10201119(183**7821) / QQ：2211523682                                                           //
-//                                                                                                                                                                                                          //
-//                              github博文（如果你对iOS常用技术，基础，底层感兴趣请猛戳这里）：http://al1020119.github.io/                //
-//                                                                                                                                                                                                         //
-//                                                                   github：https://github.com/al1020119                                                                         //
-//                                                                                                                                                                                                          //
-//============================================梦工厂============================================//
-//                                                                                                                                                                                                         //
-//                                                                                                                                                                                                         //
-//                                                                                            博客地址：                                                                                           //
-//                                                                                   https://icocos.github.io/                                                                                //
-//                                                                                   http://al1020119.github.io/                                                                            //
-//                                                                                                                                                                                                          //
-//                                                                                                                                                                                                          //
+// 微信：clpaial10201119(183**7821) / QQ：2211523682                                          
+// github博文（如果你对iOS常用技术，基础，底层感兴趣请猛戳这里）：http://al1020119.github.io/                                           // github：https://github.com/al1020119                                                                                       
 //============================================梦工厂============================================//
 //
-//
-
-
 
 一种布局模式的切换（CollectionView&amp;TableView），支持单选，多选，全选，长按，编辑等操作
 
 
-![image](https://github.com/al1020119/iCocosCard/blob/master/001.png)
+![image](https://github.com/al1020119/iCocosListGrid/blob/master/001.png)
 
-![image](https://github.com/al1020119/iCocosCard/blob/master/002.png)
+![image](https://github.com/al1020119/iCocosListGrid/blob/master/002.png)
 
-![image](https://github.com/al1020119/iCocosCard/blob/master/003.png)
+![image](https://github.com/al1020119/iCocosListGrid/blob/master/003.png)
 
-![image](https://github.com/al1020119/iCocosCard/blob/master/004.png)
+![image](https://github.com/al1020119/iCocosListGrid/blob/master/004.png)
 
 
 ## 模型数据
