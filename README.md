@@ -10,7 +10,7 @@
 一种布局模式的切换（CollectionView&amp;TableView），支持单选，多选，全选，长按，编辑等操作
 
 
-![image](https://github.com/al1020119/iCocosListGrid/001.png)
+![image](https://github.com/al1020119/iCocosListGrid/blob/master/001%402x.png)
 
 ![image](https://github.com/al1020119/iCocosListGrid/blob/master/002.png)
 
