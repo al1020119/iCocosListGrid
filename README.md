@@ -1,19 +1,4 @@
-# iCocosListGrid
-
-
-//======梦工厂=======//
-
-嗨，欢迎来到梦工厂(@iCocos)。我是曹理鹏，是一名 iOS 开发者。现居东莞，就职于广东一一五科技。正在修行，探求创意之源。
-
-微信：clpaial10201119(al10201119) / QQ：790806573(2211523682)
-
-博客（iOS常用技术，基础，底层）：http://al1020119.github.io/
-
-github：https://github.com/al1020119
-
-个人网站：http://www.icocos.cn/
-
-更多相关请查看文章末尾                          
+# iCocosListGrid                     
 
 //======梦工厂=======//
 
